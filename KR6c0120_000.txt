@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 大樂金剛不空真實三麼耶經
+#+DATE: 2015-08-30 19:45:50.824654
+#+PROPERTY: JUAN 0
